@@ -1,0 +1,37 @@
+# React-specific files
+**/node_modules/
+
+**/build/
+**/public/build/
+**/public/static/
+**/public/favicon.ico
+**/public/manifest.json
+
+# General files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+
+# IDE-specific files
+.vscode/
+.idea/
+*.iml
+
+# OS-specific files
+.AppleDouble
+.LSOverride
+.Trash/
+
+# Log files
+*.log
+npm-debug.log*
+
+# Temp files
+*.tmp
+*.bak
+
+# Yarn-specific files
+.yarn/
+.yarnrc
+yarn.lock
